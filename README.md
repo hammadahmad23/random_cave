@@ -1,6 +1,8 @@
 # random_cave
 
-- codes uploaded here are part of my academin endevours
+- i recommend that user of these codes must go through the theory once
+
+- codes uploaded here are part of my academic endeavours
 
 - i will be happy if anyone gets benefit from it.
 
